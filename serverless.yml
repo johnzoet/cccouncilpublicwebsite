@@ -3,7 +3,8 @@
 
 service: publicwebsite
 app: cccouncil
-org: srvlessfwrk
+#org: srvlessfwrk
+org: johnzoet
 
 frameworkVersion: '2'
 
@@ -27,7 +28,8 @@ package:
 
 custom:
   client:
-    bucketName: cccouncilpublicwebsite.tk
+    #bucketName: cccouncilpublicwebsite.tk
+    bucketName: cccouncilpublicwebsite.aws.zoetebier.net
     distributionFolder: frontend
     indexDocument: index.html
     errorDocument: error.html
