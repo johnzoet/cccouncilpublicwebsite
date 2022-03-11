@@ -6,7 +6,7 @@ app: cccouncil
 #org: srvlessfwrk
 org: johnzoet
 
-frameworkVersion: '2'
+frameworkVersion: '3'
 
 provider:
   name: aws
