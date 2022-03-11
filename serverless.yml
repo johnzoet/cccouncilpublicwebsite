@@ -4,6 +4,7 @@
 service: publicwebsite
 app: cccouncil
 #org: srvlessfwrk
+#test serverless ci/cd deployment trigger
 org: johnzoet
 
 frameworkVersion: '3'
